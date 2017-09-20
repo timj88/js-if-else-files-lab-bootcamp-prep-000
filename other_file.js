@@ -1,1 +1,1 @@
-console.log(tim)
+var index = require("./index.js")
