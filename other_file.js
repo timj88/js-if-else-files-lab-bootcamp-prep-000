@@ -1,1 +1,1 @@
-console.log(Tim)
+console.log(tim)
